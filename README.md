@@ -10,3 +10,6 @@ After all members have been added, your HTML will be generated in the output/ fo
 
 https://user-images.githubusercontent.com/84550325/143790139-f55c0a69-ec27-47e0-b67f-751e33bf14a9.mp4
 
+The generated HTML’s appearance
+
+
