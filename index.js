@@ -9,6 +9,7 @@ const Intern = require('./lib/Intern');
 // node modules 
 const fs = require('fs'); 
 const inquirer = require('inquirer');
+const open = require('open');
 
 // team array
 const teamEmployees = []; 
@@ -199,13 +200,14 @@ const addEmployee = () => {
 
 // function to generate HTML page file using file system 
 const writeFile = data => {
-    fs.writeFile('./dist/index.html', data, err => {
+    fs.writeFile('./dist/index.html', data, async err => {
          if (err) {
             console.log(err);
             return;
         // when the profile has been created 
         } else {
             console.log("Your team profile has been successfully created!")
+                await open('./dist/index.html')
         }
     })
 }; 
