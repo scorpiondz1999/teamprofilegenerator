@@ -14,5 +14,9 @@ The generated HTML’s appearance :
 
 ![2021-11-28](https://user-images.githubusercontent.com/84550325/143790363-93c1dd07-f377-4436-88f4-9918ce2afdfb.png)
 
+Github link : https://github.com/scorpiondz1999/teamprofilegenerator
+
+video link :https://watch.screencastify.com/v/fTj7pPiGrkR2O1NWkVBr
+
 
 
