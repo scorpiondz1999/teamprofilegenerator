@@ -2,6 +2,7 @@ This application is created to generate a team profile based on user input using
 
 
 Usage
+
 In your terminal, run the script with the command node app.js.
 Enter your manager details when prompted.
 Add additional members by selecting a role.
